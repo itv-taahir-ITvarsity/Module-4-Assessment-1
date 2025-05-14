@@ -1,0 +1,59 @@
+body{ 
+    margin: 0;
+    padding: 0;  
+    width: 100%;                                           
+    background-color: white;	    
+ }
+
+ #left-column{
+    width: 60%;
+    float: left;
+    background-color:rgb(117, 117, 117); 
+    position: relative;    
+ }
+
+#right-column img{
+    position: absolute;
+    width: 230px;
+    left: 1040px;
+    top: 350px;
+}
+
+img#logo {
+  position: fixed;
+  width: 200px;
+  top: 20px;
+  right: 10px;
+  z-index: 99999; 
+}
+
+
+/*========== clothset==========*/
+
+#clothset01-draggable{
+    top: -110px;
+}
+
+#clothset02{
+    top: -110px;
+}
+
+#clothset03{
+    top: -80px;
+}
+
+#clothset04{
+    top: -110px;
+}
+
+#clothset05{
+    top: -110px;
+}
+
+
+#clothset06{
+    top: -110px;
+}
+
+
+
